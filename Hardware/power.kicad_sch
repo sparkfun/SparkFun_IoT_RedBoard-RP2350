@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "fbbe7611-80ab-4515-a13d-b6d979cbc5de")
+	(uuid "4e586b4d-f197-4d31-993a-6221df013f7b")
 	(paper "USLetter")
 	(title_block
 		(title "Power Generation and Battery Management")
@@ -5067,7 +5067,7 @@
 		(uuid "1eb29f3f-4167-4951-8761-79c0191f19cb")
 	)
 	(junction
-		(at 196.85 93.98)
+		(at 196.85 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ed40782-a850-40de-a683-160a4af07591")
@@ -5121,7 +5121,7 @@
 		(uuid "9569d78c-7a17-41e6-a348-941e107cc98b")
 	)
 	(junction
-		(at 222.25 109.22)
+		(at 222.25 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c7463e8-43e7-43a2-898c-72b5ec485308")
@@ -5169,7 +5169,7 @@
 		(uuid "ea6c0e23-38fb-4b69-a21b-1713576bed7d")
 	)
 	(junction
-		(at 196.85 109.22)
+		(at 196.85 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f19d344a-d107-4938-b0b0-1f66454119b2")
@@ -5187,7 +5187,7 @@
 		(uuid "f9ec6735-7152-4b30-9b5d-ece942a17c6c")
 	)
 	(bus_entry
-		(at 231.14 101.6)
+		(at 231.14 96.52)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -5223,7 +5223,7 @@
 		(uuid "6ac80a19-6a38-4ff0-bff1-99ed9c327e55")
 	)
 	(bus_entry
-		(at 231.14 104.14)
+		(at 231.14 99.06)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -5233,7 +5233,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 109.22) (xy 199.39 109.22)
+			(xy 196.85 104.14) (xy 199.39 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5453,7 +5453,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 99.06) (xy 222.25 109.22)
+			(xy 222.25 93.98) (xy 222.25 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5473,7 +5473,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 109.22) (xy 196.85 106.68)
+			(xy 196.85 104.14) (xy 196.85 101.6)
 		)
 		(stroke
 			(width 0)
@@ -5623,7 +5623,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 104.14) (xy 231.14 104.14)
+			(xy 219.71 99.06) (xy 231.14 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5703,7 +5703,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 101.6) (xy 196.85 93.98)
+			(xy 196.85 96.52) (xy 196.85 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5713,7 +5713,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 101.6) (xy 196.85 101.6)
+			(xy 199.39 96.52) (xy 196.85 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5783,7 +5783,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 111.76) (xy 196.85 109.22)
+			(xy 196.85 106.68) (xy 196.85 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5873,7 +5873,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 106.68) (xy 199.39 106.68)
+			(xy 196.85 101.6) (xy 199.39 101.6)
 		)
 		(stroke
 			(width 0)
@@ -5913,7 +5913,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 109.22) (xy 228.6 109.22)
+			(xy 222.25 104.14) (xy 228.6 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5963,7 +5963,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 92.71) (xy 222.25 93.98)
+			(xy 222.25 87.63) (xy 222.25 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5973,7 +5973,7 @@
 	)
 	(bus
 		(pts
-			(xy 233.68 99.06) (xy 234.95 99.06)
+			(xy 233.68 93.98) (xy 234.95 93.98)
 		)
 		(stroke
 			(width 0)
@@ -6063,7 +6063,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 96.52) (xy 209.55 93.98)
+			(xy 209.55 91.44) (xy 209.55 88.9)
 		)
 		(stroke
 			(width 0)
@@ -6103,7 +6103,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 114.3) (xy 209.55 115.57)
+			(xy 209.55 109.22) (xy 209.55 110.49)
 		)
 		(stroke
 			(width 0)
@@ -6193,7 +6193,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 101.6) (xy 231.14 101.6)
+			(xy 219.71 96.52) (xy 231.14 96.52)
 		)
 		(stroke
 			(width 0)
@@ -6223,7 +6223,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 93.98) (xy 196.85 92.71)
+			(xy 196.85 88.9) (xy 196.85 87.63)
 		)
 		(stroke
 			(width 0)
@@ -6303,7 +6303,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 109.22) (xy 219.71 109.22)
+			(xy 222.25 104.14) (xy 219.71 104.14)
 		)
 		(stroke
 			(width 0)
@@ -6493,7 +6493,7 @@
 	)
 	(bus
 		(pts
-			(xy 233.68 101.6) (xy 233.68 99.06)
+			(xy 233.68 96.52) (xy 233.68 93.98)
 		)
 		(stroke
 			(width 0)
@@ -6523,7 +6523,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 93.98) (xy 196.85 93.98)
+			(xy 209.55 88.9) (xy 196.85 88.9)
 		)
 		(stroke
 			(width 0)
@@ -6723,8 +6723,18 @@
 		)
 		(uuid "8c09cbcd-cc74-4a41-b59e-c6fbd8652f6c")
 	)
+	(text "7-bit Address: 0x36"
+		(exclude_from_sim no)
+		(at 210.82 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a76cc7b6-0216-4b32-b764-d9d7362cff4c")
+	)
 	(label "~{BALRT}"
-		(at 228.6 109.22 180)
+		(at 228.6 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6746,7 +6756,7 @@
 		(uuid "545dfd18-d377-4fff-a6a9-b7fda4b259d8")
 	)
 	(label "IO5_SCL"
-		(at 231.14 104.14 180)
+		(at 231.14 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6801,7 +6811,7 @@
 		(uuid "bf879f8e-ef02-4110-ab68-f1f88f494fc1")
 	)
 	(label "IO4_SDA"
-		(at 231.14 101.6 180)
+		(at 231.14 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6813,7 +6823,7 @@
 	)
 	(hierarchical_label "{I^{2}C0}"
 		(shape bidirectional)
-		(at 234.95 99.06 0)
+		(at 234.95 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6942,7 +6952,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02227541-317b-492d-a8bc-e484dbb7057b")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR076"
 			(at 38.1 46.99 0)
 			(effects
 				(font
@@ -6993,7 +7003,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR075")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -7009,7 +7019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a54197e-cbbb-4499-bbbf-625c8a1a3aea")
-		(property "Reference" "R19"
+		(property "Reference" "R21"
 			(at 100.33 158.7499 90)
 			(effects
 				(font
@@ -7072,7 +7082,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R19")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -7087,7 +7097,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10862e83-336a-48d1-bad2-90109b8c1bdb")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR075"
 			(at 24.13 179.07 0)
 			(effects
 				(font
@@ -7137,7 +7147,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR074")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -7145,7 +7155,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-PowerSymbol:VBATT")
-		(at 196.85 92.71 0)
+		(at 196.85 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7153,8 +7163,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1301f473-14fd-42e7-96f3-6dc0bda58bbf")
-		(property "Reference" "#PWR094"
-			(at 196.85 96.52 0)
+		(property "Reference" "#PWR095"
+			(at 196.85 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7163,7 +7173,7 @@
 			)
 		)
 		(property "Value" "VBATT"
-			(at 196.85 88.9 0)
+			(at 196.85 83.82 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -7172,7 +7182,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 92.71 0)
+			(at 196.85 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7181,7 +7191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 92.71 0)
+			(at 196.85 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7190,7 +7200,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBATT\""
-			(at 196.85 99.06 0)
+			(at 196.85 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7204,7 +7214,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR094")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -7220,7 +7230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "153f6d8d-cd17-4977-99a0-e20dc7527846")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0106"
 			(at 231.14 44.45 0)
 			(effects
 				(font
@@ -7271,7 +7281,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0105")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -7353,7 +7363,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19c4d21c-f155-4a58-8c10-d0945b5a959d")
-		(property "Reference" "TP10"
+		(property "Reference" "TP8"
 			(at 75.565 72.39 90)
 			(do_not_autoplace yes)
 			(effects
@@ -7404,7 +7414,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "TP10")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -7412,7 +7422,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-IC-Power:MAX17048")
-		(at 209.55 105.41 0)
+		(at 209.55 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7420,7 +7430,7 @@
 		(dnp no)
 		(uuid "1eb4cd59-666a-4a11-b9c8-77a89d26bd02")
 		(property "Reference" "U8"
-			(at 210.185 93.98 0)
+			(at 210.185 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7429,7 +7439,7 @@
 			)
 		)
 		(property "Value" "MAX17048"
-			(at 210.185 96.52 0)
+			(at 210.185 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +7448,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Semiconductor-Standard:DFN-8"
-			(at 209.55 118.11 0)
+			(at 209.55 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +7457,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17048-MAX17049.pdf"
-			(at 209.55 120.65 0)
+			(at 209.55 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7456,7 +7466,7 @@
 			)
 		)
 		(property "Description" "Fuela Gauge IC for Batteries"
-			(at 209.55 125.73 0)
+			(at 209.55 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7465,7 +7475,7 @@
 			)
 		)
 		(property "PROD_ID" "IC-12551"
-			(at 209.55 123.19 0)
+			(at 209.55 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7615,7 +7625,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26052a18-3663-465c-a8e3-29f820679f5d")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR088"
 			(at 106.68 194.31 0)
 			(effects
 				(font
@@ -7665,7 +7675,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR089")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -7680,7 +7690,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28cd1b22-b585-4c33-9383-eb086983d0d1")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0101"
 			(at 215.9 167.64 0)
 			(effects
 				(font
@@ -7730,7 +7740,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0100")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -7746,7 +7756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "291c9ba3-5cfc-41b4-a00f-091043bce77c")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR089"
 			(at 114.3 59.69 0)
 			(effects
 				(font
@@ -7797,7 +7807,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR087")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -7909,7 +7919,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2d467ca4-037c-477a-8809-308f9052f5d5")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0100"
 			(at 212.09 60.96 0)
 			(effects
 				(font
@@ -7959,7 +7969,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR099")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -7974,7 +7984,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2deb1b71-c0ff-464b-9869-4fed3246cb8c")
-		(property "Reference" "R18"
+		(property "Reference" "R20"
 			(at 90.805 74.93 90)
 			(effects
 				(font
@@ -8037,7 +8047,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R18")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -8053,7 +8063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "350c774e-a164-47d3-b0c9-8dcbe400f46f")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR097"
 			(at 196.85 151.13 0)
 			(effects
 				(font
@@ -8104,7 +8114,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR096")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -8119,7 +8129,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3bad039c-eb22-4d0e-ab86-6134cd5d64d4")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR098"
 			(at 196.85 166.37 0)
 			(effects
 				(font
@@ -8169,7 +8179,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR097")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -8184,7 +8194,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41f0ebcb-67de-4ff5-8ee0-df710db00681")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR091"
 			(at 129.54 194.31 0)
 			(effects
 				(font
@@ -8234,7 +8244,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR090")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -8250,7 +8260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44e33adc-3fc5-4fc0-b235-3a8cb511ebab")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR074"
 			(at 24.13 163.83 0)
 			(effects
 				(font
@@ -8301,7 +8311,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR073")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -8309,7 +8319,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Resistor:10k_0402")
-		(at 222.25 96.52 90)
+		(at 222.25 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8317,8 +8327,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "514fa9ca-6b5d-473c-8262-43be88c86cd0")
-		(property "Reference" "R22"
-			(at 224.79 95.2499 90)
+		(property "Reference" "R24"
+			(at 224.79 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8327,7 +8337,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 224.79 97.7899 90)
+			(at 224.79 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8336,7 +8346,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
-			(at 226.06 96.52 0)
+			(at 226.06 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8345,7 +8355,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 231.14 96.52 0)
+			(at 231.14 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8354,7 +8364,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 233.68 96.52 0)
+			(at 233.68 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8363,7 +8373,7 @@
 			)
 		)
 		(property "PROD_ID" "RES-14241"
-			(at 228.6 96.52 0)
+			(at 228.6 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,7 +8390,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R22")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -8396,7 +8406,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53cc8493-8943-4eba-b383-da83a555c17e")
-		(property "Reference" "C25"
+		(property "Reference" "C26"
 			(at 116.84 59.6962 0)
 			(effects
 				(font
@@ -8477,7 +8487,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "C25")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -8684,7 +8694,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65ce8edb-491b-460f-80ec-f152cbeaceca")
-		(property "Reference" "C26"
+		(property "Reference" "C25"
 			(at 109.22 182.245 0)
 			(effects
 				(font
@@ -8765,7 +8775,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "C26")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -8877,7 +8887,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "74dadf76-ab97-4c4f-9227-7c321c6c980e")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0107"
 			(at 231.14 58.42 0)
 			(effects
 				(font
@@ -8927,7 +8937,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0106")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -8942,7 +8952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79830cbe-a5e0-4965-8e08-c8fddce6b730")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0105"
 			(at 226.06 166.37 0)
 			(effects
 				(font
@@ -8992,7 +9002,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0104")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -9420,7 +9430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fa25e02-cd68-4bd8-b35a-0f658fc4d5e9")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0104"
 			(at 226.06 151.13 0)
 			(effects
 				(font
@@ -9471,7 +9481,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0103")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -9486,7 +9496,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a033d6c5-4650-401c-b04a-1af8a1cf5536")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR087"
 			(at 101.6 73.66 0)
 			(effects
 				(font
@@ -9536,7 +9546,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR084")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -9648,7 +9658,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a1b01bc7-88f1-4c6d-815d-b96716cf8379")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0103"
 			(at 224.79 63.5 0)
 			(effects
 				(font
@@ -9698,7 +9708,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0102")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -9714,7 +9724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a20c1645-ed44-4f9b-9810-33df01ac0abb")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 57.15 143.5099 90)
 			(effects
 				(font
@@ -9777,7 +9787,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -9793,7 +9803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9385b7b-6977-4b25-ae71-1782d33f3eca")
-		(property "Reference" "R20"
+		(property "Reference" "R22"
 			(at 195.58 41.9099 90)
 			(effects
 				(font
@@ -9856,7 +9866,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R20")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -9872,7 +9882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b112c92b-03e5-493c-9751-18cfe46cf194")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR093"
 			(at 187.96 40.64 0)
 			(effects
 				(font
@@ -9923,7 +9933,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR092")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -9938,7 +9948,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b382fb40-4e0a-4742-b9ea-363e867f5873")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR083"
 			(at 67.31 194.31 0)
 			(effects
 				(font
@@ -9988,7 +9998,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR082")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -10004,7 +10014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b79d7550-832f-4ce8-a852-fe84f7925514")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR079"
 			(at 54.61 143.51 0)
 			(effects
 				(font
@@ -10055,7 +10065,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR078")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -10070,7 +10080,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b87c5802-97ba-4184-bbda-8922e64f6f64")
-		(property "Reference" "R21"
+		(property "Reference" "R23"
 			(at 201.93 154.94 0)
 			(effects
 				(font
@@ -10131,7 +10141,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R21")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -10146,7 +10156,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd7f0b57-2047-456b-b509-f82f383a8699")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR090"
 			(at 114.3 73.66 0)
 			(effects
 				(font
@@ -10196,7 +10206,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR088")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -10212,7 +10222,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2d04647-4618-454e-9240-42eb50b544f0")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR073"
 			(at 24.13 151.13 0)
 			(effects
 				(font
@@ -10263,7 +10273,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR072")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -10352,10 +10362,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "91d631b3-e09f-4d59-8756-6a2d4e3cd314")
+			(uuid "91d631b3-e09f-4d59-8756-6a2d4e3cd315")
 		)
 		(pin "1"
-			(uuid "5e6b0de3-6fbc-4bb5-b5d5-2a3e22929bb1")
+			(uuid "5e6b0de3-6fbc-4bb5-b5d5-2a3e22929bb2")
 		)
 		(instances
 			(project ""
@@ -10471,7 +10481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd5725c4-2470-48f9-bcbb-7c7b1a72e444")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR084"
 			(at 88.9 86.36 0)
 			(effects
 				(font
@@ -10521,7 +10531,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR083")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -10652,7 +10662,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4feeee2-3496-4289-8058-28df87bf1c3e")
-		(property "Reference" "R17"
+		(property "Reference" "R19"
 			(at 90.805 62.23 90)
 			(effects
 				(font
@@ -10715,7 +10725,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -10723,15 +10733,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 196.85 111.76 0)
+		(at 196.85 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d568365a-2f44-47f3-80d2-ecd4cee49910")
-		(property "Reference" "#PWR095"
-			(at 196.85 118.11 0)
+		(property "Reference" "#PWR096"
+			(at 196.85 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10740,7 +10750,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 196.85 115.57 0)
+			(at 196.85 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10748,7 +10758,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 111.76 0)
+			(at 196.85 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10757,7 +10767,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 111.76 0)
+			(at 196.85 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10766,7 +10776,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 111.76 0)
+			(at 196.85 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10780,7 +10790,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR095")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -10908,7 +10918,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da183894-aacd-4b3f-a570-b6adaf3ecd21")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR078"
 			(at 46.99 80.01 0)
 			(effects
 				(font
@@ -10958,7 +10968,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR077")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -11041,7 +11051,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dfda8439-9e74-452b-b29b-8cdededd99a0")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR080"
 			(at 54.61 179.07 0)
 			(effects
 				(font
@@ -11091,7 +11101,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR079")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -11174,7 +11184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e96b28fb-3ad7-49a6-803a-f0658fbd5049")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR092"
 			(at 134.62 181.61 0)
 			(effects
 				(font
@@ -11225,7 +11235,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR091")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -11240,7 +11250,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f075f1ab-89cd-4b45-a05d-2c4d66567e45")
-		(property "Reference" "R23"
+		(property "Reference" "R25"
 			(at 222.25 52.705 90)
 			(effects
 				(font
@@ -11303,7 +11313,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "R23")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -11311,7 +11321,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-PowerSymbol:3.3V")
-		(at 222.25 92.71 0)
+		(at 222.25 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11319,8 +11329,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f206d347-72d8-4523-8956-a298633a654f")
-		(property "Reference" "#PWR0101"
-			(at 222.25 96.52 0)
+		(property "Reference" "#PWR0102"
+			(at 222.25 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11329,7 +11339,7 @@
 			)
 		)
 		(property "Value" "3.3V"
-			(at 222.25 88.9 0)
+			(at 222.25 83.82 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -11338,7 +11348,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 92.71 0)
+			(at 222.25 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11347,7 +11357,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 92.71 0)
+			(at 222.25 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11356,7 +11366,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"3.3V\""
-			(at 222.25 99.06 0)
+			(at 222.25 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11370,7 +11380,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR0101")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -11386,7 +11396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f22346cd-0330-4d82-abed-1c6bad9c52a9")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR082"
 			(at 67.31 179.07 0)
 			(effects
 				(font
@@ -11437,7 +11447,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR081")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -11549,7 +11559,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4fc9bfa-132d-448f-b81c-5abbd276da8d")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR094"
 			(at 187.96 54.61 0)
 			(effects
 				(font
@@ -11599,7 +11609,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR093")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -11607,15 +11617,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 115.57 0)
+		(at 209.55 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "fa12de53-37d7-469a-924c-746ac51e1e04")
-		(property "Reference" "#PWR098"
-			(at 209.55 121.92 0)
+		(property "Reference" "#PWR099"
+			(at 209.55 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11624,7 +11634,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 119.38 0)
+			(at 209.55 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11632,7 +11642,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 115.57 0)
+			(at 209.55 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11641,7 +11651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 115.57 0)
+			(at 209.55 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11650,7 +11660,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 115.57 0)
+			(at 209.55 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11664,7 +11674,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR098")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -11680,7 +11690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa71c3c2-11c7-498c-a2e6-04e8f348e789")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR081"
 			(at 67.31 166.37 0)
 			(effects
 				(font
@@ -11731,7 +11741,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR080")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -11822,7 +11832,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fcf0b99b-1eee-40a7-ae30-4d323658bb03")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR077"
 			(at 38.1 58.42 0)
 			(effects
 				(font
@@ -11872,7 +11882,7 @@
 		(instances
 			(project "SparkFun_IoT_RedBoard-RP2350"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/6021e7f2-3a6b-4bc0-9dbc-3cedbda33dd7"
-					(reference "#PWR076")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
