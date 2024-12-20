@@ -1,0 +1,13 @@
+2024-12-20 13:39:44,582 - panelizer_logger - INFO - Running Panelizer
+2024-12-20 13:39:44,589 - panelizer_logger - INFO - ['--panelx', '90.000000', '--panely', '140.000000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '5.080000', '--gapy', '0.000000', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialstb']
+2024-12-20 13:39:44,591 - panelizer_logger - INFO - PANELIZER START: 2024-12-20T13:39:44.591270
+2024-12-20 13:39:52,625 - panelizer_logger - INFO - 
+START: 2024-12-20T13:39:44.591270
+Board saved by user.
+Zones filled by user.
+
+Board: C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.kicad_pcb
+Board dimensions: 68.78 x 58.62 mm.
+You can fit 1 x 2 boards on the panel.
+
+2024-12-20 13:39:54,725 - panelizer_logger - INFO - Panelizer complete

@@ -1,0 +1,14 @@
+Ordering Instructions:
+Panel dimensions: 92.74 x 131.54 mm.
+Controlled Impedance: JLC7628
+Material: TG155
+Solder Mask: Red
+Silkscreen Color: White
+Layers: 4
+Finish: Lead-Free HASL
+Thickness: 1.6mm
+Inner Copper Weight: 0.5oz
+Outer Copper Weight: 1oz
+Minimum track width: 0.12mm (4.72mil)
+Minimum via drill: 0.20mm (7.87mil)
+No Clean Process

@@ -1,0 +1,30 @@
+2024-12-20 13:40:30,213 - cammer_logger - INFO - Running CAMmer
+2024-12-20 13:40:30,214 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2024-12-20 13:40:30,214 - cammer_logger - INFO - CAMMER START: 2024-12-20T13:40:30.214581
+2024-12-20 13:40:35,189 - cammer_logger - INFO - 
+START: 2024-12-20T13:40:30.214581
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTL
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-F_Cu.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTL
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GL2
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-In1_Cu.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GL2
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GL3
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-In2_Cu.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GL3
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBL
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-B_Cu.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBL
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTP
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-F_Paste.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTP
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBP
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-B_Paste.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBP
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTO
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-F_Silkscreen.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTO
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBO
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-B_Silkscreen.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBO
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTS
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-F_Mask.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTS
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBS
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-B_Mask.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GBS
+Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GKO
+Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-Edge_Cuts.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GKO
+Drill report: C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\drill_report.rpt
+
+2024-12-20 13:40:36,417 - cammer_logger - INFO - CAMmer complete
