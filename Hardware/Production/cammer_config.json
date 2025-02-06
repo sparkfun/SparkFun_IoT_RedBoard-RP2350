@@ -5,7 +5,7 @@
     "In2.Cu": "true",
     "B.Cu": "true",
     "F.Paste": "true",
-    "B.Paste": "true",
+    "B.Paste": "false",
     "F.Silkscreen": "true",
     "B.Silkscreen": "true",
     "F.Mask": "true",

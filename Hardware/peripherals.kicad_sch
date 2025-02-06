@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Peripheral Components")
-		(date "2024-12-03")
-		(rev "v01")
+		(date "2025-02-05")
+		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: Alex Brudner")
 	)

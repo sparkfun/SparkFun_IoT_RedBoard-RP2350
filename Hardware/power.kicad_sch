@@ -5,9 +5,9 @@
 	(uuid "4e586b4d-f197-4d31-993a-6221df013f7b")
 	(paper "USLetter")
 	(title_block
-		(title "Power Generation and Battery Management")
-		(date "2024-12-03")
-		(rev "v01")
+		(title "Power and Battery Management")
+		(date "2025-02-05")
+		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: Alex Brudner")
 	)

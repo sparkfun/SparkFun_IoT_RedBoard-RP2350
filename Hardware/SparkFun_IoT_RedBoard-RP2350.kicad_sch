@@ -6,8 +6,8 @@
 	(paper "USLedger")
 	(title_block
 		(title "SparkFun IoT RedBoard - RP2350 - Top Level/Connectors")
-		(date "2024-12-03")
-		(rev "v01")
+		(date "2025-02-05")
+		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: Alex Brudner")
 	)
@@ -15096,6 +15096,142 @@
 		)
 	)
 	(symbol
+		(lib_id "SparkFun-Connector:Conn_01x22_FPC_0.5mm_HSTX_Vertical")
+		(at 382.27 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "456011e0-e1c9-4255-92c5-7fede60d4a99")
+		(property "Reference" "J11"
+			(at 382.27 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x22_FPC_0.5mm_HSTX_Vertical"
+			(at 399.415 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SparkFun-Connector:FPC_0.5mm-22_Vertical"
+			(at 382.27 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.cvilux.com/uploads/drawings/100/332/CF2081S.pdf"
+			(at 382.27 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 382.27 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "CONN-24643"
+			(at 381.254 152.146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "028c7ffa-8bf1-4b9b-aeba-ef20d584b37b")
+		)
+		(pin "2"
+			(uuid "409fe581-e9ed-402a-b877-e7e34b6a7cf5")
+		)
+		(pin "8"
+			(uuid "3d3ee3ac-c55d-4617-be07-2802e1b17b6b")
+		)
+		(pin "13"
+			(uuid "42e0b801-921a-4599-bbdd-91184f26fb10")
+		)
+		(pin "14"
+			(uuid "34f87768-ae80-473e-abf5-cfc46afb3e24")
+		)
+		(pin "17"
+			(uuid "1cfa3c06-b7bd-45fc-8ab0-e57c4c4c99b2")
+		)
+		(pin "18"
+			(uuid "ca393b2d-4cfb-4251-bbd2-e8b642c4616b")
+		)
+		(pin "21"
+			(uuid "1ec8bbf3-7b0a-40e6-9b55-9685d4a29b4e")
+		)
+		(pin "6"
+			(uuid "eca7f9be-ef14-44f4-8ad7-b59c24a2ce1b")
+		)
+		(pin "9"
+			(uuid "114c6c0e-f780-45ca-b5d5-d8ecd3f37d0e")
+		)
+		(pin "1"
+			(uuid "8e1fe7ab-fa64-4fa4-a942-8719255203f2")
+		)
+		(pin "11"
+			(uuid "ce4d9e4d-669c-4a78-b9cd-031c93deb7e3")
+		)
+		(pin "15"
+			(uuid "48be451a-cca1-4871-8815-65e73d80a345")
+		)
+		(pin "12"
+			(uuid "20300a74-0e2c-4ed1-946a-dfb53ba78630")
+		)
+		(pin "16"
+			(uuid "2efb23f0-acdc-487c-a62a-677a6e19c35c")
+		)
+		(pin "19"
+			(uuid "0b774e33-def8-4647-a6e9-3a5003827f63")
+		)
+		(pin "10"
+			(uuid "ea1b6925-ae0d-4b9c-88ec-3830990e6e39")
+		)
+		(pin "22"
+			(uuid "d56d6a50-1c3c-4b38-80f1-d5ec86b150ba")
+		)
+		(pin "4"
+			(uuid "ff541a4a-7a6a-484b-8c3b-1d4e88f8cb8a")
+		)
+		(pin "20"
+			(uuid "b394d170-164a-4f0b-ba60-789c87e0a9ca")
+		)
+		(pin "3"
+			(uuid "230fa517-9130-460d-8744-5e982010ae2d")
+		)
+		(pin "5"
+			(uuid "af09d563-cb19-41c7-860d-eca6d46bef14")
+		)
+		(instances
+			(project "SparkFun_IoT_RedBoard-RP2350"
+				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 49.53 227.33 0)
 		(unit 1)
@@ -16450,143 +16586,6 @@
 			(project "SparkFun_Default_KiCad_Setup"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "FID4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-Connector:Conn_01x22_FPC_0.5mm_HSTX_Vertical")
-		(at 382.27 114.3 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7b7a97e4-ce1d-4407-9c3c-36d3d1197cfa")
-		(property "Reference" "J11"
-			(at 382.27 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x22_FPC_0.5mm_HSTX_Vertical"
-			(at 399.415 145.415 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SparkFun-Connector:FPC_0.5mm-22_Vertical"
-			(at 382.27 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.cvilux.com/uploads/drawings/100/332/CF2081S.pdf"
-			(at 382.27 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 382.27 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" "CONN-24643"
-			(at 381.254 73.914 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "aff2380a-ce56-4af2-a0fc-c8572f5bf150")
-		)
-		(pin "2"
-			(uuid "5cbb2554-de5a-4f67-bb55-ff4497ba4998")
-		)
-		(pin "8"
-			(uuid "b43bc7a2-118c-4372-ba43-755b2e4a489f")
-		)
-		(pin "13"
-			(uuid "f5c2a05e-80a7-4c78-976d-3a4c24863575")
-		)
-		(pin "14"
-			(uuid "80db2c53-1f8a-40f2-bf0b-7d32a43981b5")
-		)
-		(pin "17"
-			(uuid "25540709-76ab-4bc8-afe3-ce8ed05a609b")
-		)
-		(pin "18"
-			(uuid "d16ae28a-d57c-45ed-9ec4-25b52d536dcf")
-		)
-		(pin "21"
-			(uuid "68803136-a622-46e7-8b69-33dcbae5d136")
-		)
-		(pin "6"
-			(uuid "fb980036-6809-4865-96bc-83016163ad1c")
-		)
-		(pin "9"
-			(uuid "13931ea1-5ece-4f8d-9640-08c2e45380f7")
-		)
-		(pin "1"
-			(uuid "a8f8945e-6697-4704-a33d-902ac8203907")
-		)
-		(pin "11"
-			(uuid "75294c67-4453-4f3b-886a-0c69081b509d")
-		)
-		(pin "15"
-			(uuid "e997e3a6-6421-482a-9636-3fda2d634aa8")
-		)
-		(pin "12"
-			(uuid "f5fff4a6-8150-46fe-92da-b5821fd7c23c")
-		)
-		(pin "16"
-			(uuid "5807579d-5aef-4c8e-bd30-0208c50a3b32")
-		)
-		(pin "19"
-			(uuid "1a73226f-9d48-4b1d-b064-57a32b8dbe8f")
-		)
-		(pin "10"
-			(uuid "fb02d6d4-c945-4118-b882-6d6b275d978e")
-		)
-		(pin "22"
-			(uuid "2e6110ac-a6df-40da-b9b9-ee9968d9f2f8")
-		)
-		(pin "4"
-			(uuid "33733704-9b7d-4fd2-8f07-398af5a3d4aa")
-		)
-		(pin "20"
-			(uuid "6d7244ce-fac2-4204-9fe6-bbb921cadb64")
-		)
-		(pin "3"
-			(uuid "9c69b3a2-aa7c-42d1-889f-5d3af0664544")
-		)
-		(pin "5"
-			(uuid "f1705ce2-272e-45d8-af7f-028677d2f016")
-		)
-		(instances
-			(project ""
-				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
-					(reference "J11")
 					(unit 1)
 				)
 			)
