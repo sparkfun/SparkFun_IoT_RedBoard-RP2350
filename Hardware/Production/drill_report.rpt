@@ -1,5 +1,5 @@
 Drill report for SparkFun_IoT_RedBoard-RP2350_panelized.kicad_pcb
-Created on 2025-02-05T17:53:08-0700
+Created on 2025-02-07T12:31:58-0700
 
 Copper Layer Stackup:
     =============================================================
@@ -12,11 +12,11 @@ Copper Layer Stackup:
 Drill file 'SparkFun_IoT_RedBoard-RP2350_panelized.drl' contains
     plated through holes:
     =============================================================
-    T1  0.200mm  0.0079"  (3870 holes)
+    T1  0.200mm  0.0079"  (3920 holes)
     T2  0.600mm  0.0236"  (40 holes)  (with 40 slots)
     T3  1.016mm  0.0400"  (390 holes)
 
-    Total plated holes count 4300
+    Total plated holes count 4350
 
 
 Not plated through holes are merged with plated holes

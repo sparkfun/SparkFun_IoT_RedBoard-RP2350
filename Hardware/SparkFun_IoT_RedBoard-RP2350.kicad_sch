@@ -13175,7 +13175,7 @@
 		)
 		(uuid "32a904f4-2644-492d-9d82-7a094526f1a3")
 	)
-	(text "VIN: 7-15V"
+	(text "VIN: 6-15V"
 		(exclude_from_sim no)
 		(at 44.45 158.115 0)
 		(effects

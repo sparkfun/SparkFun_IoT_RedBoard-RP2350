@@ -1,8 +1,8 @@
-2025-02-05 17:53:05,859 - cammer_logger - INFO - Running CAMmer
-2025-02-05 17:53:05,860 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
-2025-02-05 17:53:05,861 - cammer_logger - INFO - CAMMER START: 2025-02-05T17:53:05.861750
-2025-02-05 17:53:09,042 - cammer_logger - INFO - 
-START: 2025-02-05T17:53:05.861750
+2025-02-07 12:31:56,143 - cammer_logger - INFO - Running CAMmer
+2025-02-07 12:31:56,144 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2025-02-07 12:31:56,145 - cammer_logger - INFO - CAMMER START: 2025-02-07T12:31:56.145467
+2025-02-07 12:31:59,037 - cammer_logger - INFO - 
+START: 2025-02-07T12:31:56.145467
 Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTL
 Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-F_Cu.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GTL
 Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GL2
@@ -25,4 +25,4 @@ Deleting existing C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-R
 Renaming C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized-Edge_Cuts.gbr to C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\SparkFun_IoT_RedBoard-RP2350_panelized.GKO
 Drill report: C:\Users\alex.brudner\Documents\GitHub\SparkFun_IoT_RedBoard-RP2350\Hardware\Production\drill_report.rpt
 
-2025-02-05 17:53:32,669 - cammer_logger - INFO - CAMmer complete
+2025-02-07 12:32:00,527 - cammer_logger - INFO - CAMmer complete
