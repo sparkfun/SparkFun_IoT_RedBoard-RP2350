@@ -4,6 +4,14 @@ icon: material/cog
 
 This document gives a detailed overview of the RedBoard IoT - RP2350 and all components present on the board.
 
+## IoT RedBoard - RP2350 Overview
+
+The IoT RedBoard - RP2350 is packed with hardware aimed at helping users get the most out of the RP2350. This includes multiple power inputs like USB-C and a 2-pin JST connector, Qwiic connector, standard R3 female headers, several status LEDs and also a couple specialized headers for the RP2350's high-speed transmit (HSTX) pins and its debug pins. The photo below highlights all the major components on this board that we'll cover in this Hardware Overview.
+
+<center>
+[![Photo highlighting major components on the IoT RedBoard - RP2350](./assets/img/SparkFun_IoT_RedBoard-RP2350-Labels.jpg){ width="600"}](./assets/img/SparkFun_IoT_RedBoard-RP2350-Labels.jpg "Click to enlarge")
+</center>
+
 ## RP2350 Microcontroller
 
 The RP2350 from Raspberry Pi packs a whole lot of computing punch in a tiny package. The RP2350 is a unique dual-core microcontroller that has <i>four</i> internal processors (two Arm Cortex-M33 and two Hazard3 RISC-V processors @150 MHz), though you can only select any two of these four to run at the same time. 
@@ -68,14 +76,44 @@ It also has a MAX17048 battery fuel gauge to monitor a connected battery's volta
 
 ### HSTX Connector
 
+
+
 ### RP2350 Debug Connector
+
+We've also included a dedicated 1mm 3-pin connector tied to the RP2350's debug pins (SWDIO, SWCK & Ground). Users can plug a [debug cable (link needed - ML)]() to this connector. These pins are also connected to a 0.1"-spaced PTH header right next to it for those who prefer a different connection type. 
 
 ## LEDs
 
 This board has four LEDs labeled <b>STAT/25</b>, <b>CHG</b>, <b>WRL</b>, <b>PWR</b> and <b>RGB/IO3</b>.
 
+**Photo highlighting LEDs - ML**
+
+The list below outlines the color and functionality of the LEDs on the IoT RedBoard - RP235.
+
+* <b>STAT/25</b> - Blue LED tied to the RP2350's IO25. User-programmable status LED. 
+* <b>CHG</b> - Yellow LED connects to the MCP73831 LiPo charge IC to indicate when an attached battery is being charged.
+* <b>WRL</b> - Blue LED tied to IO0 on the RM2. User-programmable status LED.
+* <b>PWR</b> - Red LED tied to <b>3.3V</b> power circuit.
+* <b>RGB/IO3</b> - WS2812 RGB LED tied to the RP2350's IO3. User-progammable RGB LED.
+
 ## Buttons
 
 There are three push buttons on the board labeled <b>RESET</b>, <b>USER/36</b> and <b>BOOT</b>.
 
+**Photo highlighting buttons - ML**
+
+The <b>RESET</b> button connects to the RP2350's RUN pin and resets the RP2350 when pressed. The <b>USER/36</b> button connects to IO36 on the RP2350 and can act as a physical input to trigger an event in code. The <b>BOOT</b> button 
+
 ## Solder Jumpers
+
+The IoT RedBoard - RP2350 has five solder jumpers labeled <b>PWR</b>, <b>LP</b>, <b>SHLD</b>, <b>I2C</b> and <b>BYP</b>. 
+
+**Photo highlighting solder jumpers - ML**
+
+The list below outlines the solder jumpers functionality, default state and any notes about their behavior.
+
+* <b>PWR</b> - Completes the Power LED circuit. CLOSED by default. Open to disable the power LED to help conserve power.
+* <b>LP</b> - Pulls the RP9080 3.3V regulator's enable (EN) pin HIGH (3.3V) to power the peripheral (3.3V_P) power circuit. CLOSED by default. While enabled, this provides power to the &micro;SD card and RGB LED. Open to disable the peripheral power circuit.
+* <b>SHLD</b> - Nets the USB-C Shield pin to the board's ground plane. CLOSED by default. Open to isolate the shield pin from the board's ground.
+* <b>I2C</b> - Three-way jumper pulls the I<sup>2</sup>C pins (IO4/SDA and IO5/SCL) to <b>3.3V</b> through a pair of <b>2.2k&ohm;</b> resistors. CLOSED by default. Open the jumper to disable the pullups on these pins.
+* <b>BYP</b> - Fuse bypass jumper. OPEN by default. Close to bypass the fuse on the VIN input.

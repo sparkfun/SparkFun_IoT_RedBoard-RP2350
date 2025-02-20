@@ -271,16 +271,18 @@ extra_javascript:
 
 # Configures webpage navigation
 nav:
-  - Quick Start Guide: quickstart.md
-  - Hardware: 
-    - Hardware Overview: hardware_overview.md
-    - Hardware Assembly: hardware_assembly.md
-  - Software:
-    - Pico SDK: picosdk.md
-    - MicroPython: micropython.md
-    - Arduino: arduino.md
-  - Resources: resources.md
-  - Support:
-    - Troubleshooting: troubleshooting.md
-    - Submit Issues: github/file_issue.md
-    - Contribute: github/contribute.md
+  - Hookup Guide:
+    - Introduction: introduction.md
+    - Quick Start: quickstart.md
+    - Hardware: 
+      - Hardware Overview: hardware_overview.md
+      - Hardware Assembly: hardware_assembly.md
+    - Software:
+      - Pico SDK: picosdk.md
+      - MicroPython: micropython.md
+      - Arduino: arduino.md
+    - Resources: resources.md
+    - Support:
+      - Troubleshooting: troubleshooting.md
+      - Submit Issues: github/file_issue.md
+      - Contribute: github/contribute.md

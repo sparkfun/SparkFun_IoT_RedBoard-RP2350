@@ -1,63 +1,23 @@
 
 
 
+Welcome to the SparkFun IoT RedBoard - RP2350 Quick Start Guide. This streamlined version of our standard Hookup Guides assumes a working knowledge of how to use a development board and the required software to program them for your project's needs. It covers a quick assembly and then jumps right into getting the necessary software packages installed to start uploading code in just a few short minutes. The guide finishes with simple examples for each development environment showing how to set up and use the RM2 wireless chip to connect to a WiFi network.
 
-<div class="grid cards desc" markdown>
+If you're not familiar with using development boards or the development environments covered in this guide, refer to the Hardware & Software sections for a detailed overview of the board along with instructions on setting up and programming the IoT RedBoard - RP2350.
 
--    <a href="https://www.sparkfun.com/products/iot-redboard-rp2350.html">
-    **SparkFun IoT RedBoard - RP2350**<br>
-    **SKU:** WRL-27708
-
-    ---
-
-    <figre markdown>
-    ![Product Thumbnail](./assets/img/SparkFun_IoT_RedBoard-RP2350.jpg)
-    </figure></a>
-
-    <center>
-    <article class="video_desc">
-    <iframe src="https://www.youtube.com/embed/umC06onaavo?si=j9rEibxVvqwawaoB" title="Product Showcase: SparkFun Thing Plus - RP2350" frameborder="0" allow="accelerometer; autoplay; clipboard-write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </article>
-    </center>
-
--   Welcome to the SparkFun IoT RedBoard - RP2350 Quick Start Guide. This streamlined version of our standard Hookup Guides assumes a working knowledge of how to use a development board and the required software to program them for your project's needs. It covers a quick assembly and then jumps right into getting the necessary software packages installed to start uploading code in just a few short minutes. The guide finishes with simple examples for each development environment showing how to set up and use the RM2 wireless chip to connect to a WiFi network.
-<br>
-<br>
-If you're not familiar with using development boards or the development environments covered in this guide, refer to the Hardware & Software tabs above for a detailed overview of the board along with instructions on programming the IoT RedBoard - RP2350.
-
-</div>
 
 ## Basic Assembly
 
 Start by plugging the IoT RedBoard - RP2350 into your computer using a USB-C connector. 
 
 <figure markdown>
-[![Photo showing RedBoard IoT - RP2350 connected over USB-C](./assets/img/SparkFun_IoT_RedBoard-RP2350.jpg){ width="600"}](./assets/img/SparkFun_IoT_RedBoard-RP2350.jpg "Click to enlarge")
+[![Photo showing RedBoard IoT - RP2350 connected over USB-C](./assets/img/SparkFun_IoT_RedBoard-RP2350.jpg){ width="600" }](./assets/img/SparkFun_IoT_RedBoard-RP2350.jpg "Click to enlarge")
 </figure>
 
-## Software Setup
 
-Next up we'll cover how to upload to the IoT RedBoard - RP2350 using preferred development environment(s). If you're using any peripherals (Qwiic boards, shields, etc.) connect those now or after installing the board packages. Make sure to install any software packages or libraries for any connected peripherals.
+## Software Examples
 
-### Raspberry Pi Pico SDK
-
-The IoT RedBoard - RP2350 is supported in **version needed - ML** of the Pico SDK. Upload to it by selecting `sparkfun_redboard_rp2350`.
-
-### MicroPython
-
-The IoT RedBoard - RP2350 has Beta releases of MicroPython firmware available [here](https://github.com/sparkfun/micropython/releases) or by clicking the button below:
-
-<center>
-    [SparkFun MicroPython Beta Releases](https://github.com/sparkfun/micropython/releases){ .md-button .md-button--primary}
-</center>
-
-Put the IoT RedBoard in bootloader mode by pressing and holding the RESET button while pressing and releasing the BOOT button. Once in bootloader mode, navigate to the RedBoard's drive location and copy the UF2 file into the drive.
-
-### Arduino IDE
-
-The IoT RedBoard - RP2350 board definition is included in the [Arduino-Pico](https://github.com/earlephilhower/arduino-pico) boards package. Make sure to install or update to the latest Arduino-Pico release and select `SparkFun IoT RedBoard - RP2350` as your board.
-
-## Code Examples
+Next up we'll cover how to upload to the IoT RedBoard - RP2350 using preferred development environment(s). If you're using any peripherals (Qwiic boards, shields, etc.) connect those now or after installing the necessary software and board packages.
 
 The following examples all complete the same task of connecting the IoT RedBoard - RP2350 to a WiFi network and pinging a site. They also include a visual indicator of the connection status using the RGB LED on the board like the photos below show:
 
@@ -79,16 +39,25 @@ The following examples all complete the same task of connecting the IoT RedBoard
 	</figure>
 </div>
 
-Before running the examples, adjust the template values called <code>WIFI_NETWORK</code> and <code>WIFI_PASSWORD</code> with your WiFi network ID and password.
+### Raspberry Pi Pico SDK
 
-### Pico SDK
+The IoT RedBoard - RP2350 is supported in **version needed - ML** of the Pico SDK. The Pico SDK works great in [Microsoft VS Code](https://code.visualstudio.com/) with the [Pico SDK Extension](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico). Upload to the board by selecting `sparkfun_redboard_rp2350`.
 
 **Insert example code - ML**
+
 
 ### MicroPython
 
-**Insert example code - ML**
+The IoT RedBoard - RP2350 has Beta releases of MicroPython firmware available [here](https://github.com/sparkfun/micropython/releases). Download and install the MicroPython firmware onto your IoT RedBoard - RP2350, open your preferred Python IDE (or CLI) and copy the code below into it:
 
-### Arduino
+**Insert example code -ML**
 
-**Insert example code - ML**
+
+
+### Arduino IDE
+
+The IoT RedBoard - RP2350 board definition is included in the [Arduino-Pico](https://github.com/earlephilhower/arduino-pico) boards package. Install or update to the latest Arduino-Pico release and select `SparkFun IoT RedBoard - RP2350` as your board. This example also uses the [Neopixel Arduino library]((https://github.com/adafruit/Adafruit_NeoPixel)) to control the WS2812 RGB LED.
+
+## Going Further
+
+If you're looking for more detailed information on the design and components on this IoT Redboard, read on to the Hardware section below. Similarly, the Software tab includes detailed instructions on installing and using all supported development environments along with a few more examples for each IDE. Finally, the Resources section includes the board design files and datasheets for major components on the board.

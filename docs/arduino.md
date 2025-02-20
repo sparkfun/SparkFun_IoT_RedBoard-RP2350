@@ -7,7 +7,7 @@ icon: simple/arduino
 
 ## Arduino-Pico Boards
 
-The SparkFun RedBoard IoT - RP2350 is supported on the Arduino IDE in the [Arduino-Pico](https://github.com/earlephilhower/arduino-pico) boards package. To install the package, open the Preferences menu by navigating to <b>File</b> > <b>Preferences</b>. Look at the bottom of the Preferences menu for "Additional boards manager URLS" and then copy this JSON link into that field:
+The SparkFun IoT RedBoard - RP2350 is supported on the Arduino IDE in the [Arduino-Pico](https://github.com/earlephilhower/arduino-pico) boards package. To install the package, open the Preferences menu by navigating to <b>File</b> > <b>Preferences</b>. Look at the bottom of the Preferences menu for "Additional boards manager URLS" and then copy this JSON link into that field:
 
 <code>
     https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
