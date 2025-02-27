@@ -278,6 +278,7 @@ nav:
       - Hardware Overview: hardware_overview.md
       - Hardware Assembly: hardware_assembly.md
     - Software:
+      - UF2 Bootloader: uf2.md
       - Pico SDK: picosdk.md
       - MicroPython: micropython.md
       - Arduino: arduino.md
