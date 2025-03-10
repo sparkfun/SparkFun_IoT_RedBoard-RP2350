@@ -6,10 +6,10 @@ This document gives a detailed overview of the RedBoard IoT - RP2350 and all com
 
 ## IoT RedBoard - RP2350 Overview
 
-The IoT RedBoard - RP2350 is packed with hardware aimed at helping users get the most out of the RP2350. This includes multiple power inputs like USB-C and a 2-pin JST connector, Qwiic connector, standard R3 female headers, several status LEDs and also a couple specialized headers for the RP2350's high-speed transmit (HSTX) pins and its debug pins. The photo below highlights all the major components on this board that we'll cover in this Hardware Overview.
+The IoT RedBoard - RP2350 is packed with hardware aimed at helping users get the most out of the RP2350. This includes multiple power inputs like USB-C and a 2-pin JST connector, Qwiic connector, standard R3 female headers, several status LEDs and also a couple specialized headers for the RP2350's high-speed transmit (HSTX) pins and its debug pins. The photo below highlights most of the major components on this board that we'll cover in this Hardware Overview.
 
 <center>
-[![Photo highlighting major components on the IoT RedBoard - RP2350](./assets/img/SparkFun_IoT_RedBoard-RP2350-Labels.jpg){ width="600"}](./assets/img/SparkFun_IoT_RedBoard-RP2350-Labels.jpg "Click to enlarge")
+[![Photo highlighting major components on the IoT RedBoard - RP2350](./assets/img/SparkFun_IoT_RedBoard-Annotated.jpg){ width="600"}](./assets/img/SparkFun_IoT_RedBoard-Annotated.jpg "Click to enlarge")
 </center>
 
 ## RP2350 Microcontroller

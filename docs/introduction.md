@@ -13,7 +13,9 @@ This guide uses just the hardware present on the IoT RedBoard - RP2350 so in ord
 
 This document contains three main sections: **Quickstart Guide**, **Hardware** and **Software**. 
 
-The Quickstart Guide assumes a working knowledge of how to use a development board and the required software to program them for your project's needs. It covers a quick assembly and then jumps right into getting the necessary software packages installed to start uploading code in just a few short minutes. The document finishes with simple examples for each development environment showing how to set up and use the RM2 wireless chip to connect to a WiFi network. 
+The Quickstart Guide assumes a working knowledge of how to use a development board and the required software to program them for your project's needs. It covers a quick assembly and then jumps right into getting the necessary software packages installed to start uploading code in just a few short minutes.
+
+. This streamlined version of our standard Hookup Guides assumes a working knowledge of how to use a development board and the required software to program them for your project's needs. It covers a quick assembly and then jumps right into getting the necessary software packages installed to start uploading code in just a few short minutes. The document finishes with simple examples for each development environment
 
 The Hardware page provides a detailed overview of the IoT RedBoard - RP2350 along with all the major components included on the board. Refer to this page for information on things like the RP2350, LEDs, pinout and solder jumpers.
 
