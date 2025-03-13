@@ -8,10 +8,6 @@ MicroPython is an application of the Python 3 language that runs on microcontrol
 
 ## UF2 Firmware
 
-The SparkFun IoT RedBoard - RP2350 is available in the main release of MicroPython [here](https://micropython.org/download/). Search for "SparkFun IoT RedBoard - RP2350" on the MicroPython downloads page for the correct firmware. This release does **not** include PSRAM support.  of MicroPython to include UF2 files for the IoT RedBoard - RP2350 so to get users started before then, we have Beta releases of MicroPython firmware available [here](https://github.com/sparkfun/micropython/releases) or by clicking the button below:
-
-<center>
-    [SparkFun MicroPython Beta Releases](https://github.com/sparkfun/micropython/releases){ .md-button .md-button--primary}
-</center>
+The SparkFun IoT RedBoard - RP2350 ships with MicroPython firmware pre-loaded so you do not need to download and install it in your board. If you need to update the firmware at any point, it is available in the main release of MicroPython [here](https://micropython.org/download/). Search for "SparkFun IoT RedBoard - RP2350" on the MicroPython downloads page for the correct firmware. This release does **not** include PSRAM support; if your project requires using PSRAM, you can find a Beta release MicroPython firmware available [here](https://github.com/sparkfun/micropython/releases).
 
 Download the latest release and then put the IoT RedBoard - RP2350 into UF2 bootloader mode and open the location the board appeared as a USB storage device (it should appear as "RP2350"). Next, drag and drop the UF2 file into the RP2350 folder and the board should reboot. After the board reboots, open up your preferred MicroPython IDE (or command line interface) and you can start interacting with your RedBoard IoT. Head over to the Quick Start guide for an example project that shows how to connect the board to a WiFi network, download data from a website and control the RGB LED.

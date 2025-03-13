@@ -154,7 +154,7 @@ plugins:
       type: timeago
   # Add git committers at the bottom of the page
   - git-committers:
-      repository: sparkfun/SparkFun_Pro_Micro_RP2350
+      repository: sparkfun/SparkFun_IoT_RedBoard_RP2350
       branch: main
   # Add git authors at the bottom of the page
   - git-authors
