@@ -1,7 +1,3 @@
----
-icon: material/cog
----
-
 This document gives a detailed overview of the RedBoard IoT - RP2350 and all components present on the board.
 
 ## IoT RedBoard - RP2350 Overview

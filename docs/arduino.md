@@ -1,7 +1,3 @@
----
-icon: simple/arduino
----
-
 !!! attention
 	If this is your first time using Arduino, please read through our tutorial on [installing the Arduino IDE](https://learn.sparkfun.com/tutorials/installing-arduino-ide). If you have not installed an Arduino library before, we recommend you check out our [installation guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library).
 
@@ -19,6 +15,4 @@ Click "OK" to close this menu then navigate to the Boards Manager tool and searc
 [![Screenshot of board manager tool searching for pico.](./assets/img/arduino_boards.jpg){ width="600"}](./assets/img/arduino_boards.jpg "Click to enlarge")
 </figure>
 
-For more information on using the Arduino-Pico boards package, check out their [documentation page](https://arduino-pico.readthedocs.io/en/latest/index.html).
-
-## Examples
+For more information on using the Arduino-Pico boards package, check out their [documentation page](https://arduino-pico.readthedocs.io/en/latest/index.html). Head over to the Quick Start guide for an Arduino example demonstrating how to connect to a WiFi network, download data from a site and control the RGB LED.

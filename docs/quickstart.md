@@ -1,8 +1,6 @@
+Welcome to the SparkFun IoT RedBoard - RP2350 Quick Start Guide showing how to set up and use the RM2 wireless chip to connect to a WiFi network, request and download data on the number and names of astronauts currently on the International Space Station. 
 
-
-
-
-Welcome to the SparkFun IoT RedBoard - RP2350 Quick Start Guide showing how to set up and use the RM2 wireless chip to connect to a WiFi network, request and download data on the number and names of astronauts currently on the International Space Station. If you're not familiar with using development boards or the development environments covered in this guide, refer to the Hardware & Software sections for a detailed overview of the board along with instructions on setting up and programming the IoT RedBoard - RP2350.
+If you're not familiar with using development boards or the development environments covered in this guide, refer to the [Hardware](./hardware_overview.md) & [Software](./uf2.md) sections for a detailed overview of the board along with instructions on setting up and programming the IoT RedBoard - RP2350.
 
 ## Basic Assembly
 

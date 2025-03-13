@@ -1,7 +1,3 @@
-
-
-
-
 The IoT RedBoard - RP2350 uses a UF2 bootloader for easy flashing/uploading of code to the board. The UF2 bootloader causes the board to show up on your computer as a USB storage device and does <b>not</b> require any drivers for Windows, Mac OSX, and Linux! This bootloader is used for uploading in both the Pico SDK and MicroPython development environments so let's take a brief look at how to enter bootload mode.
 
 ## What is UF2?
@@ -10,16 +6,9 @@ UF2 stands for USB Flashing Format, which was developed by Microsoft for PXT (no
 
 ## Entering the Bootloader
 
-Putting the IoT RedBoard - RP2350 into bootloader mode only requires a couple of presses of the BOOT and RESET buttons. Start by pressing and holding the BOOT button down:
+Putting the IoT RedBoard - RP2350 into bootloader mode only requires a couple of presses of the BOOT and RESET buttons. Enter the bootloader with the following steps:
 
-<figure markdown>
-[![Pressing the BOOT button.](./assets/img/Thing_Plus_RP2350-uF2_BOOT.jpg){ width="600"}](./assets/img/Thing_Plus_RP2350-uF2_BOOT.jpg "Click to enlarge")
-</figure>
-
-Next, press and release the RESET button while still holding down the BOOT button:
-
-<figure markdown>
-[![Photo highlighting RP2350.](./assets/img/Thing_Plus_RP2350-uF2_RESET.jpg){ width="600"}](./assets/img/Thing_Plus_RP2350-uF2_RESET.jpg "Click to enlarge")
-</figure>
-
-Finally, release the BOOT button and the board should be in bootloader mode and appear on your computer as a USB storage device called "RP2350".
+* Press and hold down the BOOT button.
+* While holding BOOT button, press and release the RESET button.
+* Release the BOOT button
+* Device should appear as a USB storage device called "RP2350"
