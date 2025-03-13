@@ -1,49 +1,26 @@
+[![SparkFun IoT RedBoard - RP2350)](docs/assets/img/iot-redboard-rp2350-gh-banner.png "SparkFun IoT RedBoard - RP2350")](https://www.sparkfun.com/sparkfun-iot-redboard-rp2350.html)
 
-![SparkFun IoT RedBoard - RP2350)](docs/assets/img/iot-redboard-rp2350-gh-banner.png "SparkFun IoT RedBoard - RP2350")
+[*SparkFun IoT RedBoard - RP2350 (WRL-27708)*](https://www.sparkfun.com/sparkfun-iot-redboard-rp2350.html)
 
-# SparkFun IoT RedBoard - RP2350
-
-SparkFun <PRODUCT NAME>
-========================================
-
-[![SparkFun Part Name](URL for picture of part)](URL for product on Sparkfun.com)
-
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
-
-<Basic description of the part.>
+The SparkFun IoT Redboard - RP2350 combines the RP2350 microcontroller with the Raspberry Pi Radio Module 2 to provide a powerful and versatile wireless development platform in the Arduino R4 form factor. This IoT Redboard also includes integrated battery power and charging circuits, &micro;SD card slot, Qwiic connector, 3-pin debug header as well as a 22-pin ribbon cable connector tied to the RP2350's HSTX (high-speed transmit) pins. The board shares a pinout between female headers and matching 0.1"-spaced plated through-hole (PTH) headers to allow you to choose between temporary or soldered connections. 
 
 Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files
-* **/Firmware** - Example code
+* **/Examples** - Example code
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
-* **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
+* **/docs** - GitHub Pages documentation files
 
 Documentation
 --------------
 
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_IoT_RedBoard-RP2350/)** - Basic hookup guide for the SparkFun IoT RedBoard - RP2350.
 
 Product Versions
 ----------------
 
-* [Part SKU](part URL) - Basic part and short description here
-* [Retail part SKU](retail URL) - Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [WRL-27708]([part URL](https://www.sparkfun.com/sparkfun-iot-redboard-rp2350.html)) - Initial release of the IoT RedBoard - RP2350
 
 License Information
 -------------------
@@ -57,5 +34,3 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 * Your friends at SparkFun.
-
-*<COLLABORATION CREDIT>*
