@@ -1,4 +1,4 @@
-![SparkFun IoT RedBoard - RP2350)](docs/assets/img/iot-redboard-rp2350-gh-banner.png "SparkFun IoT RedBoard - RP2350")
+![SparkFun IoT RedBoard - RP2350)](./assets/img/iot-redboard-rp2350-gh-banner.png "SparkFun IoT RedBoard - RP2350")
 
 
 The IoT RedBoard - RP2350 combines the RP2350 microcontroller with the Raspberry Pi Radio Module 2 to provide a powerful and versatile wireless development platform in the Arduino R4 form factor. In this guide we'll cover how to connect the IoT RedBoard - RP2350 to a computer and how to progam it three development environments: Raspberry Pi Pico SDK, MicroPython, or Arduino.
