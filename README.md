@@ -20,7 +20,7 @@ Documentation
 Product Versions
 ----------------
 
-* [WRL-27708]([part URL](https://www.sparkfun.com/sparkfun-iot-redboard-rp2350.html)) - Initial release of the IoT RedBoard - RP2350
+* [WRL-27708](https://www.sparkfun.com/sparkfun-iot-redboard-rp2350.html) - Initial release of the IoT RedBoard - RP2350
 
 License Information
 -------------------
