@@ -77,7 +77,7 @@ The example includes several serial prints to indicate success or failure. If th
 
 **Code to Note**:
 
-* WiFi Network Variables. Adjust "SSID" and "PASSWORD" to your WiFi network's ID and password:
+* WiFi network variables. Adjust "SSID" and "PASSWORD" to your WiFi network's ID and password:
 ```c++
 #ifndef STASSID
 #define STASSID "SSID"
@@ -94,7 +94,56 @@ The example includes several serial prints to indicate success or failure. If th
 #define LED_BRIGHTNESS 30
 ```
 
-* 
+* Attempt to connect to WiFi network:
+```c++
+multi.addAP(ssid, password);
+
+    if(multi.run() != WL_CONNECTED) {
+        Serial.println(F("Unable to connect to network, rebooting in 10 seconds..."));
+        delay(10000);
+        rp2040.reboot();
+    }
+
+    Serial.println(F("Connected to network"));
+    Serial.println(F("IP address: "));
+    Serial.println(WiFi.localIP());
+```
+
+* Send HTTP get request:
+```c++
+ client.println(F("GET /international-space-station-APIs/JSON/people-in-space.json HTTP/1.0"));
+    client.println(F("Host: corquaid.github.io"));
+    client.println(F("Connection: close"));
+```
+
+* Parse JSON request:
+```c++
+JsonDocument doc;
+    DeserializationError error = deserializeJson(doc, client);
+    if(error) {
+        Serial.print(F("deserializeJson() failed: "));
+        Serial.println(error.f_str());
+        client.stop();
+        return;
+    }
+```
+
+* Print number & names of astronauts in space:
+```c++
+int numberOfPeople = doc[F("number")];
+
+    Serial.print(F("There are "));
+    Serial.print(numberOfPeople);
+    Serial.println(F(" astronauts in space."));
+
+    for(JsonObject people_item : doc[F("people")].as<JsonArray>()) {
+        int people_item_id = people_item[F("id")];
+        const char* people_item_name = people_item[F("name")];
+        Serial.print(people_item_id);
+        Serial.print(F(": "));
+        Serial.println(people_item_name);
+    }
+```
 
 ## Going Further
 
