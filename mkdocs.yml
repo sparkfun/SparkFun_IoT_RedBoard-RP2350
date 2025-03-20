@@ -274,9 +274,7 @@ nav:
   - Hookup Guide:
     - Introduction: introduction.md
     - Quick Start: quickstart.md
-    - Hardware: 
-      - Hardware Overview: hardware_overview.md
-      - Hardware Assembly: hardware_assembly.md
+    - Hardware Overview: hardware_overview.md
     - Software:
       - UF2 Bootloader: uf2.md
       - Pico SDK: picosdk.md
