@@ -14,7 +14,7 @@ The RP2350 from Raspberry Pi packs a whole lot of computing punch in a tiny pack
 
 This internal configuration allows users to customize the chip to use a pair their preferred architecture (ARM or Hazard3) or to use one of each! The RP2350 includes 520kB of on-chip SRAM in ten independent banks, 8kB of one-time-programmable (OTP) storage and this board also includes PSRAM connected to the chip's QSPI bus. The RP2350 also has a bevy of security features including optional boot signing with protected OTP storage for the boot decryption key, global bus filtering (based on either Arm or RISC-V security and privilege levels) and more.
 
-The RedBoard IoT - RP2350 uses the "A" version of the microcontroller which has 30 5V-tolerant GPIO with 4 analog inputs and also includes the following peripheral options:
+The RedBoard IoT - RP2350 uses the "B" version of the microcontroller which has 48 5V-tolerant GPIO with 8 analog inputs and also includes the following peripheral options:
 
 * 2x UART
 * 2x SPI
