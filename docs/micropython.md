@@ -2,9 +2,9 @@
 
 MicroPython is an application of the Python 3 language that runs on microcontrollers like the IoT RedBoard - RP2350 that allows you to easily interact with the board directly over a USB serial interface through either a command line interface or your preferred Python IDE such as [Thonny](https://thonny.org/). We'll do a quick overview of how to download MicroPython firmware on to the RedBoard IoT - RP2350 but for a complete overview of using MicroPython with this and other RP2350 boards, head over to Raspberry Pi's documentation by clicking the button below:
 
-<center>
-    [Raspberry Pi MicroPython Docs](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html){ .md-button .md-button--primary}
-</center>
+<article style="text-align: center;" markdown>
+[Raspberry Pi MicroPython Docs](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html){ .md-button .md-button--primary}
+</article>
 
 ## UF2 Firmware
 
